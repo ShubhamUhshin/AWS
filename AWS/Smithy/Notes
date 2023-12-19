@@ -1,0 +1,4 @@
+Smithy is an IDL (interface Definition language) written by the AWS rvice Frameworks.
+It is based on Coral IDL.
+It can be converted to Coral, OpenAPI specs.
+It is used by OpenAPI Gateway to construct endpoints.

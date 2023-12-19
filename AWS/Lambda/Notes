@@ -1,0 +1,7 @@
+
+Lambda functions are public
+Best Practice- SRP Pronciple
+
+We create the handler function in java project and upload the jar in the lambda console. (Note: bvino said, we don't upload the jar, we do it through some CDK. Need to deep dive here)
+
+- Lambda Context
